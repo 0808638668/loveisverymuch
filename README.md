@@ -3,3 +3,5 @@
 pap
 price
 pond
+krich
+Sun
